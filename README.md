@@ -29,8 +29,6 @@ Um simples jogo de adivinhação desenvolvido em Java, onde o jogador deve tenta
 - Implementar uma interface gráfica (GUI).
 - Adicionar um sistema de pontuação.
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Autor
 Pedro Henrique Lima Xavier Dutra  
